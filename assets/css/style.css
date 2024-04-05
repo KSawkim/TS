@@ -550,16 +550,19 @@ section {
   font-weight: 700;
   font-size: 28px;
   font-family: "Poppins", sans-serif;
+  color: #151515;
 }
 
 .about .content ul {
   list-style: none;
   padding: 0;
+  color: #151515;
 }
 
 .about .content ul li {
   padding: 0 0 8px 26px;
   position: relative;
+  color: #151515;
 }
 
 .about .content ul i {
@@ -572,6 +575,7 @@ section {
 
 .about .content p:last-child {
   margin-bottom: 0;
+  color: #151515;
 }
 
 /*--------------------------------------------------------------
@@ -1545,4 +1549,7 @@ section {
   text-align: center;
   font-size: 13px;
   color: #fff;
+}
+.fst-italic {
+  color: #151515;
 }
